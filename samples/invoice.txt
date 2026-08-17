@@ -1,0 +1,18 @@
+ACME Robotics Ltd.
+123 Fabrication Way, Sheffield, UK
+
+Invoice Number: INV-2026-00842
+Date: 2026-08-14
+Bill To: Northwind Traders
+
+Line items:
+- CNC calibration service: $1,200.00
+- Replacement servo motors (x4): $860.00
+- On-site installation: $450.00
+
+Subtotal: $2,510.00
+Tax (20%): $502.00
+Total: $3,012.00
+
+Vendor: ACME Robotics Ltd.
+Payment due within 30 days.
