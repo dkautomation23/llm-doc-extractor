@@ -1,5 +1,7 @@
 # llm-doc-extractor
 
+[![CI](https://github.com/dkautomation23/llm-doc-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/dkautomation23/llm-doc-extractor/actions/workflows/ci.yml)
+
 Turn messy documents — invoices, contracts, emails, forms — into **clean,
 schema-shaped JSON** you can drop straight into a database, spreadsheet, or CRM.
 
