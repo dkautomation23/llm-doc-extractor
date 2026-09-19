@@ -1,4 +1,4 @@
-PyYAML>=6.0
+PyYAML>=6.0.3
 # Optional, per provider / format:
 # anthropic>=0.40    # --provider anthropic
 # openai>=1.40       # --provider openai
